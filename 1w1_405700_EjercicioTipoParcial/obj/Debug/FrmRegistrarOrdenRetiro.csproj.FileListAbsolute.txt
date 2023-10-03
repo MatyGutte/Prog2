@@ -1,0 +1,11 @@
+E:\PERSONAL\UTN\2023\Programacion2\FrmRegistrarOrdenRetiro\bin\Debug\FrmRegistrarOrdenRetiro.exe.config
+E:\PERSONAL\UTN\2023\Programacion2\FrmRegistrarOrdenRetiro\bin\Debug\FrmRegistrarOrdenRetiro.exe
+E:\PERSONAL\UTN\2023\Programacion2\FrmRegistrarOrdenRetiro\bin\Debug\FrmRegistrarOrdenRetiro.pdb
+E:\PERSONAL\UTN\2023\Programacion2\FrmRegistrarOrdenRetiro\obj\Debug\FrmRegistrarOrdenRetiro.csproj.AssemblyReference.cache
+E:\PERSONAL\UTN\2023\Programacion2\FrmRegistrarOrdenRetiro\obj\Debug\FrmRegistrarOrdenRetiro.csproj.SuggestedBindingRedirects.cache
+E:\PERSONAL\UTN\2023\Programacion2\FrmRegistrarOrdenRetiro\obj\Debug\FrmRegistrarOrdenRetiro.Properties.Resources.resources
+E:\PERSONAL\UTN\2023\Programacion2\FrmRegistrarOrdenRetiro\obj\Debug\FrmRegistrarOrdenRetiro.csproj.GenerateResource.cache
+E:\PERSONAL\UTN\2023\Programacion2\FrmRegistrarOrdenRetiro\obj\Debug\FrmRegistrarOrdenRetiro.csproj.CoreCompileInputs.cache
+E:\PERSONAL\UTN\2023\Programacion2\FrmRegistrarOrdenRetiro\obj\Debug\FrmRegistrarOrdenRetiro.exe
+E:\PERSONAL\UTN\2023\Programacion2\FrmRegistrarOrdenRetiro\obj\Debug\FrmRegistrarOrdenRetiro.pdb
+E:\PERSONAL\UTN\2023\Programacion2\FrmRegistrarOrdenRetiro\obj\Debug\FrmRegistrarOrdenRetiro.FrmRegistrarOrden.resources
